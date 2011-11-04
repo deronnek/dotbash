@@ -1,7 +1,7 @@
 source ~/.bash_aliases
 source /etc/bash_completion
 
-export PATH="/home/deronne/bin:/home/deronne/local/bin:/home/deronne/gitbin:"$PATH
+export PATH="/home/deronne/bin:/home/deronne/local/bin:/home/deronne/dotenv/gitbin:"$PATH
 export LD_LIBRARY_PATH="/usr/lib:/home/deronne/local/lib"
 
 function pss {
